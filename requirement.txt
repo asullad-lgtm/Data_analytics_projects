@@ -1,0 +1,10 @@
+Pandas
+Numpy
+Matplotlib
+Seaborn
+openpyxl
+ipykernel
+sqlalchemy
+psycopg2-binary
+djangorestframework
+scikit-learn

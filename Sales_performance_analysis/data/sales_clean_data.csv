@@ -1,0 +1,309 @@
+OrderID,Date,Region,Product,Category,Quantity,UnitPrice,SalesPerson,Revenue,month,year,MonthName
+236,2023-01-01,East,Keyboard,Accessories,7.0,69.0,Sara,483.0,1.0,2023.0,Jan
+148,2023-01-02,South,Table,Furniture,5.0,124.0,David,620.0,1.0,2023.0,Jan
+188,2023-01-03,West,Laptop,Electronics,9.0,70.0,Amit,630.0,1.0,2023.0,Jan
+463,2023-01-04,South,Desk Chair,Furniture,7.0,550.0,John,3850.0,1.0,2023.0,Jan
+398,2023-01-06,South,Table,Furniture,7.0,464.0,David,3248.0,1.0,2023.0,Jan
+420,2023-01-07,West,Keyboard,Accessories,6.0,841.0,Sara,5046.0,1.0,2023.0,Jan
+231,2023-01-07,West,Phone,Electronics,2.0,373.0,Sara,746.0,1.0,2023.0,Jan
+478,2023-01-09,South,Table,Furniture,9.0,554.0,Sara,4986.0,1.0,2023.0,Jan
+265,2023-01-12,East,Desk Chair,Furniture,6.0,85.0,Amit,510.0,1.0,2023.0,Jan
+362,2023-01-12,South,Keyboard,Accessories,2.0,353.0,Amit,706.0,1.0,2023.0,Jan
+413,2023-01-13,West,Table,Furniture,5.0,603.0,Sara,3015.0,1.0,2023.0,Jan
+359,2023-01-14,North,Table,Furniture,2.0,820.0,John,1640.0,1.0,2023.0,Jan
+441,2023-01-16,West,Table,Furniture,7.0,634.0,Sara,4438.0,1.0,2023.0,Jan
+40,2023-01-17,North,Phone,Electronics,5.0,221.0,David,1105.0,1.0,2023.0,Jan
+129,2023-01-17,North,Monitor,Electronics,10.0,756.0,John,7560.0,1.0,2023.0,Jan
+1,2023-01-20,North,Monitor,Electronics,5.0,406.0,Amit,2030.0,1.0,2023.0,Jan
+336,2023-01-20,South,Laptop,Electronics,9.0,1049.0,Amit,9441.0,1.0,2023.0,Jan
+81,2023-01-21,North,Monitor,Electronics,4.0,533.0,Maria,2132.0,1.0,2023.0,Jan
+472,2023-01-21,East,Desk Chair,Furniture,8.0,146.0,John,1168.0,1.0,2023.0,Jan
+217,2023-01-22,West,Keyboard,Accessories,2.0,1090.0,Maria,2180.0,1.0,2023.0,Jan
+493,2023-01-22,North,Phone,Electronics,2.0,456.0,Amit,912.0,1.0,2023.0,Jan
+392,2023-01-23,East,Monitor,Electronics,1.0,603.0,Amit,603.0,1.0,2023.0,Jan
+475,2023-01-23,South,Keyboard,Accessories,4.0,603.0,Maria,2412.0,1.0,2023.0,Jan
+390,2023-01-24,West,Table,Furniture,5.0,810.0,Maria,4050.0,1.0,2023.0,Jan
+380,2023-01-24,North,Desk Chair,Furniture,1.0,353.0,Amit,353.0,1.0,2023.0,Jan
+144,2023-01-24,West,Phone,Electronics,4.0,525.0,Priya,2100.0,1.0,2023.0,Jan
+176,2023-01-25,East,Keyboard,Accessories,8.0,728.0,Sara,5824.0,1.0,2023.0,Jan
+45,2023-01-26,West,Table,Furniture,1.0,169.0,Priya,169.0,1.0,2023.0,Jan
+344,2023-01-29,West,Phone,Electronics,5.0,444.0,Sara,2220.0,1.0,2023.0,Jan
+432,2023-02-02,West,Monitor,Electronics,8.0,113.0,John,904.0,2.0,2023.0,Feb
+290,2023-02-08,South,Headphones,Accessories,6.0,1017.0,David,6102.0,2.0,2023.0,Feb
+263,2023-02-10,North,Table,Furniture,3.0,748.0,Priya,2244.0,2.0,2023.0,Feb
+495,2023-02-10,South,Keyboard,Accessories,2.0,740.0,Sara,1480.0,2.0,2023.0,Feb
+135,2023-02-10,North,Monitor,Electronics,3.0,886.0,Sara,2658.0,2.0,2023.0,Feb
+70,2023-02-10,North,Keyboard,Accessories,5.0,372.0,Priya,1860.0,2.0,2023.0,Feb
+350,2023-02-12,West,Laptop,Electronics,10.0,151.0,Maria,1510.0,2.0,2023.0,Feb
+199,2023-02-15,North,Monitor,Electronics,9.0,446.0,Sara,4014.0,2.0,2023.0,Feb
+490,2023-02-16,West,Headphones,Accessories,5.0,871.0,Maria,4355.0,2.0,2023.0,Feb
+324,2023-02-16,West,Headphones,Accessories,6.0,539.0,Amit,3234.0,2.0,2023.0,Feb
+93,2023-02-16,East,Keyboard,Accessories,10.0,548.0,Sara,5480.0,2.0,2023.0,Feb
+214,2023-02-17,East,Monitor,Electronics,2.0,34.0,David,68.0,2.0,2023.0,Feb
+196,2023-02-18,West,Keyboard,Accessories,1.0,378.0,Priya,378.0,2.0,2023.0,Feb
+296,2023-02-19,South,Monitor,Electronics,8.0,1123.0,Maria,8984.0,2.0,2023.0,Feb
+200,2023-02-20,West,Keyboard,Accessories,5.0,603.0,David,3015.0,2.0,2023.0,Feb
+170,2023-02-21,West,Desk Chair,Furniture,2.0,476.0,John,952.0,2.0,2023.0,Feb
+257,2023-02-25,North,Laptop,Electronics,6.0,876.0,Amit,5256.0,2.0,2023.0,Feb
+138,2023-02-25,North,Headphones,Accessories,8.0,958.0,Amit,7664.0,2.0,2023.0,Feb
+206,2023-02-25,West,Desk Chair,Furniture,3.0,66.0,Maria,198.0,2.0,2023.0,Feb
+194,2023-02-25,West,Monitor,Electronics,9.0,930.0,Priya,8370.0,2.0,2023.0,Feb
+416,2023-02-28,South,Keyboard,Accessories,10.0,453.0,Amit,4530.0,2.0,2023.0,Feb
+335,2023-03-02,South,Keyboard,Accessories,6.0,493.0,John,2958.0,3.0,2023.0,Mar
+58,2023-03-03,East,Desk Chair,Furniture,4.0,556.0,Priya,2224.0,3.0,2023.0,Mar
+226,2023-03-03,West,Table,Furniture,2.0,297.0,Sara,594.0,3.0,2023.0,Mar
+261,2023-03-04,East,Phone,Electronics,2.0,535.0,Sara,1070.0,3.0,2023.0,Mar
+115,2023-03-05,North,Desk Chair,Furniture,6.0,1090.0,David,6540.0,3.0,2023.0,Mar
+173,2023-03-06,West,Keyboard,Accessories,5.0,786.0,Amit,3930.0,3.0,2023.0,Mar
+233,2023-03-07,North,Table,Furniture,1.0,1058.0,Priya,1058.0,3.0,2023.0,Mar
+371,2023-03-10,North,Desk Chair,Furniture,5.0,940.0,Priya,4700.0,3.0,2023.0,Mar
+408,2023-03-11,South,Desk Chair,Furniture,10.0,1166.0,Maria,11660.0,3.0,2023.0,Mar
+191,2023-03-14,South,Keyboard,Accessories,8.0,1130.0,Priya,9040.0,3.0,2023.0,Mar
+269,2023-03-16,East,Keyboard,Accessories,10.0,1017.0,David,10170.0,3.0,2023.0,Mar
+182,2023-03-17,South,Headphones,Accessories,6.0,160.0,Sara,960.0,3.0,2023.0,Mar
+14,2023-03-19,South,Monitor,Electronics,1.0,528.0,Priya,528.0,3.0,2023.0,Mar
+110,2023-03-19,West,Table,Furniture,9.0,666.0,Maria,5994.0,3.0,2023.0,Mar
+105,2023-03-20,East,Desk Chair,Furniture,10.0,127.0,Amit,1270.0,3.0,2023.0,Mar
+439,2023-03-20,South,Laptop,Electronics,8.0,585.0,David,4680.0,3.0,2023.0,Mar
+156,2023-03-21,North,Table,Furniture,6.0,420.0,John,2520.0,3.0,2023.0,Mar
+254,2023-03-21,West,Phone,Electronics,3.0,407.0,Maria,1221.0,3.0,2023.0,Mar
+444,2023-03-23,South,Laptop,Electronics,1.0,446.0,John,446.0,3.0,2023.0,Mar
+353,2023-03-25,West,Headphones,Accessories,3.0,603.0,Priya,1809.0,3.0,2023.0,Mar
+494,2023-03-29,North,Phone,Electronics,5.0,789.0,Amit,3945.0,3.0,2023.0,Mar
+339,2023-03-29,South,Laptop,Electronics,6.0,1174.0,Maria,7044.0,3.0,2023.0,Mar
+190,2023-03-30,South,Table,Furniture,6.0,603.0,John,3618.0,3.0,2023.0,Mar
+59,2023-03-31,East,Monitor,Electronics,9.0,812.0,David,7308.0,3.0,2023.0,Mar
+394,2023-03-31,East,Desk Chair,Furniture,2.0,587.0,Amit,1174.0,3.0,2023.0,Mar
+455,2023-04-03,West,Desk Chair,Furniture,2.0,1145.0,Maria,2290.0,4.0,2023.0,Apr
+292,2023-04-03,South,Desk Chair,Furniture,6.0,131.0,John,786.0,4.0,2023.0,Apr
+428,2023-04-03,West,Phone,Electronics,7.0,1178.0,Priya,8246.0,4.0,2023.0,Apr
+15,2023-04-03,North,Monitor,Electronics,9.0,316.0,Maria,2844.0,4.0,2023.0,Apr
+19,2023-04-07,South,Laptop,Electronics,3.0,949.0,David,2847.0,4.0,2023.0,Apr
+340,2023-04-08,South,Table,Furniture,1.0,534.0,Sara,534.0,4.0,2023.0,Apr
+149,2023-04-10,West,Laptop,Electronics,6.0,1132.0,John,6792.0,4.0,2023.0,Apr
+162,2023-04-10,West,Phone,Electronics,3.0,593.0,Sara,1779.0,4.0,2023.0,Apr
+183,2023-04-16,East,Table,Furniture,5.0,82.0,John,410.0,4.0,2023.0,Apr
+259,2023-04-17,South,Phone,Electronics,2.0,1165.0,Sara,2330.0,4.0,2023.0,Apr
+352,2023-04-17,North,Monitor,Electronics,8.0,867.0,Maria,6936.0,4.0,2023.0,Apr
+24,2023-04-21,South,Monitor,Electronics,6.0,814.0,David,4884.0,4.0,2023.0,Apr
+218,2023-04-22,North,Headphones,Accessories,6.0,340.0,John,2040.0,4.0,2023.0,Apr
+242,2023-04-22,West,Desk Chair,Furniture,10.0,614.0,Sara,6140.0,4.0,2023.0,Apr
+366,2023-04-25,North,Desk Chair,Furniture,3.0,603.0,Maria,1809.0,4.0,2023.0,Apr
+255,2023-04-25,South,Keyboard,Accessories,8.0,860.0,Amit,6880.0,4.0,2023.0,Apr
+112,2023-04-26,East,Monitor,Electronics,10.0,253.0,David,2530.0,4.0,2023.0,Apr
+95,2023-04-27,North,Keyboard,Accessories,10.0,779.0,John,7790.0,4.0,2023.0,Apr
+82,2023-05-01,North,Desk Chair,Furniture,7.0,524.0,David,3668.0,5.0,2023.0,May
+117,2023-05-02,South,Monitor,Electronics,1.0,412.0,John,412.0,5.0,2023.0,May
+157,2023-05-03,East,Keyboard,Accessories,9.0,163.0,Sara,1467.0,5.0,2023.0,May
+357,2023-05-03,South,Monitor,Electronics,4.0,540.0,Priya,2160.0,5.0,2023.0,May
+349,2023-05-04,North,Table,Furniture,5.0,660.0,John,3300.0,5.0,2023.0,May
+18,2023-05-10,South,Headphones,Accessories,10.0,912.0,David,9120.0,5.0,2023.0,May
+11,2023-05-10,East,Monitor,Electronics,4.0,99.0,Priya,396.0,5.0,2023.0,May
+431,2023-05-11,West,Keyboard,Accessories,5.0,333.0,David,1665.0,5.0,2023.0,May
+130,2023-05-11,South,Phone,Electronics,7.0,641.0,David,4487.0,5.0,2023.0,May
+36,2023-05-11,South,Monitor,Electronics,3.0,442.0,Amit,1326.0,5.0,2023.0,May
+448,2023-05-13,South,Desk Chair,Furniture,5.0,711.0,Amit,3555.0,5.0,2023.0,May
+113,2023-05-13,East,Headphones,Accessories,3.0,643.0,David,1929.0,5.0,2023.0,May
+136,2023-05-14,West,Headphones,Accessories,9.0,768.0,Priya,6912.0,5.0,2023.0,May
+477,2023-05-16,South,Phone,Electronics,7.0,362.0,Priya,2534.0,5.0,2023.0,May
+253,2023-05-16,West,Keyboard,Accessories,9.0,161.0,Priya,1449.0,5.0,2023.0,May
+389,2023-05-18,South,Headphones,Accessories,5.0,727.0,Sara,3635.0,5.0,2023.0,May
+185,2023-05-18,North,Phone,Electronics,6.0,347.0,Amit,2082.0,5.0,2023.0,May
+47,2023-05-19,East,Headphones,Accessories,8.0,809.0,Maria,6472.0,5.0,2023.0,May
+125,2023-05-20,South,Keyboard,Accessories,3.0,410.0,Maria,1230.0,5.0,2023.0,May
+90,2023-05-22,North,Desk Chair,Furniture,5.0,309.0,Maria,1545.0,5.0,2023.0,May
+272,2023-05-23,North,Table,Furniture,5.0,54.0,Maria,270.0,5.0,2023.0,May
+108,2023-05-24,West,Headphones,Accessories,3.0,979.0,John,2937.0,5.0,2023.0,May
+227,2023-05-25,South,Keyboard,Accessories,5.0,603.0,Sara,3015.0,5.0,2023.0,May
+247,2023-05-25,West,Keyboard,Accessories,2.0,69.0,Sara,138.0,5.0,2023.0,May
+180,2023-05-25,North,Phone,Electronics,5.0,964.0,Sara,4820.0,5.0,2023.0,May
+445,2023-05-26,West,Table,Furniture,2.0,657.0,David,1314.0,5.0,2023.0,May
+239,2023-05-26,West,Headphones,Accessories,10.0,671.0,Sara,6710.0,5.0,2023.0,May
+57,2023-05-27,East,Headphones,Accessories,6.0,122.0,Amit,732.0,5.0,2023.0,May
+337,2023-05-31,East,Monitor,Electronics,7.0,601.0,Sara,4207.0,5.0,2023.0,May
+216,2023-06-01,East,Headphones,Accessories,6.0,906.0,David,5436.0,6.0,2023.0,Jun
+168,2023-06-02,South,Laptop,Electronics,5.0,1046.0,Maria,5230.0,6.0,2023.0,Jun
+143,2023-06-03,West,Keyboard,Accessories,6.0,567.0,Priya,3402.0,6.0,2023.0,Jun
+407,2023-06-04,East,Table,Furniture,2.0,603.0,Priya,1206.0,6.0,2023.0,Jun
+121,2023-06-04,West,Headphones,Accessories,3.0,488.0,Maria,1464.0,6.0,2023.0,Jun
+120,2023-06-05,South,Keyboard,Accessories,1.0,213.0,Maria,213.0,6.0,2023.0,Jun
+497,2023-06-05,West,Table,Furniture,5.0,162.0,John,810.0,6.0,2023.0,Jun
+32,2023-06-06,South,Desk Chair,Furniture,5.0,164.0,Amit,820.0,6.0,2023.0,Jun
+498,2023-06-07,East,Phone,Electronics,3.0,1080.0,Sara,3240.0,6.0,2023.0,Jun
+56,2023-06-09,South,Monitor,Electronics,7.0,505.0,John,3535.0,6.0,2023.0,Jun
+470,2023-06-09,West,Headphones,Accessories,3.0,131.0,John,393.0,6.0,2023.0,Jun
+167,2023-06-09,South,Monitor,Electronics,6.0,532.0,Sara,3192.0,6.0,2023.0,Jun
+315,2023-06-09,South,Headphones,Accessories,5.0,168.0,Maria,840.0,6.0,2023.0,Jun
+96,2023-06-12,South,Phone,Electronics,7.0,547.0,Priya,3829.0,6.0,2023.0,Jun
+361,2023-06-15,West,Monitor,Electronics,6.0,619.0,Amit,3714.0,6.0,2023.0,Jun
+465,2023-06-18,North,Headphones,Accessories,3.0,956.0,Maria,2868.0,6.0,2023.0,Jun
+139,2023-06-20,East,Laptop,Electronics,6.0,997.0,David,5982.0,6.0,2023.0,Jun
+74,2023-06-20,East,Laptop,Electronics,2.0,930.0,John,1860.0,6.0,2023.0,Jun
+2,2023-06-21,East,Desk Chair,Furniture,7.0,992.0,David,6944.0,6.0,2023.0,Jun
+489,2023-06-21,South,Phone,Electronics,7.0,325.0,Sara,2275.0,6.0,2023.0,Jun
+405,2023-06-22,West,Monitor,Electronics,1.0,1037.0,John,1037.0,6.0,2023.0,Jun
+48,2023-06-22,East,Table,Furniture,3.0,140.0,Maria,420.0,6.0,2023.0,Jun
+294,2023-06-23,East,Headphones,Accessories,4.0,821.0,Amit,3284.0,6.0,2023.0,Jun
+141,2023-06-26,South,Table,Furniture,4.0,444.0,John,1776.0,6.0,2023.0,Jun
+479,2023-06-26,West,Monitor,Electronics,7.0,351.0,John,2457.0,6.0,2023.0,Jun
+295,2023-06-28,East,Keyboard,Accessories,6.0,603.0,Priya,3618.0,6.0,2023.0,Jun
+487,2023-06-29,East,Headphones,Accessories,8.0,771.0,Sara,6168.0,6.0,2023.0,Jun
+169,2023-07-01,West,Phone,Electronics,8.0,705.0,Amit,5640.0,7.0,2023.0,Jul
+466,2023-07-01,East,Laptop,Electronics,1.0,1117.0,Amit,1117.0,7.0,2023.0,Jul
+33,2023-07-03,East,Laptop,Electronics,9.0,398.0,Maria,3582.0,7.0,2023.0,Jul
+219,2023-07-03,East,Laptop,Electronics,1.0,201.0,David,201.0,7.0,2023.0,Jul
+393,2023-07-03,East,Desk Chair,Furniture,5.0,777.0,Priya,3885.0,7.0,2023.0,Jul
+250,2023-07-03,South,Laptop,Electronics,1.0,605.0,Maria,605.0,7.0,2023.0,Jul
+367,2023-07-04,East,Monitor,Electronics,6.0,736.0,Priya,4416.0,7.0,2023.0,Jul
+411,2023-07-05,North,Laptop,Electronics,8.0,90.0,Amit,720.0,7.0,2023.0,Jul
+480,2023-07-05,South,Laptop,Electronics,3.0,161.0,David,483.0,7.0,2023.0,Jul
+204,2023-07-06,East,Laptop,Electronics,4.0,218.0,Priya,872.0,7.0,2023.0,Jul
+325,2023-07-07,West,Headphones,Accessories,3.0,224.0,John,672.0,7.0,2023.0,Jul
+386,2023-07-11,East,Desk Chair,Furniture,8.0,688.0,Sara,5504.0,7.0,2023.0,Jul
+172,2023-07-11,West,Table,Furniture,1.0,603.0,Amit,603.0,7.0,2023.0,Jul
+184,2023-07-11,West,Laptop,Electronics,5.0,200.0,Maria,1000.0,7.0,2023.0,Jul
+131,2023-07-12,East,Monitor,Electronics,7.0,743.0,Amit,5201.0,7.0,2023.0,Jul
+222,2023-07-12,South,Laptop,Electronics,9.0,952.0,Priya,8568.0,7.0,2023.0,Jul
+132,2023-07-13,North,Phone,Electronics,1.0,217.0,Priya,217.0,7.0,2023.0,Jul
+192,2023-07-15,East,Table,Furniture,10.0,913.0,Maria,9130.0,7.0,2023.0,Jul
+332,2023-07-16,West,Headphones,Accessories,7.0,608.0,Maria,4256.0,7.0,2023.0,Jul
+77,2023-07-17,East,Table,Furniture,4.0,31.0,Sara,124.0,7.0,2023.0,Jul
+147,2023-07-20,North,Monitor,Electronics,10.0,441.0,Amit,4410.0,7.0,2023.0,Jul
+55,2023-07-21,South,Headphones,Accessories,4.0,796.0,Maria,3184.0,7.0,2023.0,Jul
+39,2023-07-22,East,Laptop,Electronics,9.0,344.0,Sara,3096.0,7.0,2023.0,Jul
+235,2023-07-23,North,Monitor,Electronics,10.0,452.0,Sara,4520.0,7.0,2023.0,Jul
+159,2023-07-24,East,Monitor,Electronics,5.0,37.0,Priya,185.0,7.0,2023.0,Jul
+347,2023-07-25,East,Table,Furniture,7.0,603.0,David,4221.0,7.0,2023.0,Jul
+160,2023-07-25,North,Phone,Electronics,8.0,976.0,Sara,7808.0,7.0,2023.0,Jul
+307,2023-07-26,North,Laptop,Electronics,9.0,165.0,Maria,1485.0,7.0,2023.0,Jul
+122,2023-07-29,East,Monitor,Electronics,4.0,993.0,Maria,3972.0,7.0,2023.0,Jul
+100,2023-08-03,East,Desk Chair,Furniture,3.0,939.0,Maria,2817.0,8.0,2023.0,Aug
+276,2023-08-05,South,Phone,Electronics,4.0,250.0,Amit,1000.0,8.0,2023.0,Aug
+72,2023-08-05,South,Phone,Electronics,6.0,1067.0,Maria,6402.0,8.0,2023.0,Aug
+151,2023-08-09,East,Laptop,Electronics,4.0,603.0,Amit,2412.0,8.0,2023.0,Aug
+334,2023-08-10,West,Headphones,Accessories,10.0,1172.0,David,11720.0,8.0,2023.0,Aug
+369,2023-08-11,North,Laptop,Electronics,7.0,905.0,Maria,6335.0,8.0,2023.0,Aug
+338,2023-08-15,East,Monitor,Electronics,2.0,928.0,Maria,1856.0,8.0,2023.0,Aug
+323,2023-08-15,North,Laptop,Electronics,4.0,1100.0,Maria,4400.0,8.0,2023.0,Aug
+133,2023-08-17,North,Laptop,Electronics,8.0,803.0,Sara,6424.0,8.0,2023.0,Aug
+437,2023-08-17,West,Phone,Electronics,1.0,104.0,John,104.0,8.0,2023.0,Aug
+163,2023-08-18,West,Monitor,Electronics,3.0,821.0,John,2463.0,8.0,2023.0,Aug
+123,2023-08-18,West,Monitor,Electronics,5.0,345.0,David,1725.0,8.0,2023.0,Aug
+456,2023-08-19,East,Phone,Electronics,5.0,1050.0,John,5250.0,8.0,2023.0,Aug
+450,2023-08-19,North,Headphones,Accessories,5.0,794.0,David,3970.0,8.0,2023.0,Aug
+427,2023-08-22,North,Monitor,Electronics,1.0,182.0,David,182.0,8.0,2023.0,Aug
+267,2023-08-23,South,Keyboard,Accessories,3.0,1050.0,Maria,3150.0,8.0,2023.0,Aug
+21,2023-08-24,South,Keyboard,Accessories,6.0,648.0,David,3888.0,8.0,2023.0,Aug
+322,2023-08-24,North,Phone,Electronics,9.0,815.0,Priya,7335.0,8.0,2023.0,Aug
+5,2023-08-26,West,Desk Chair,Furniture,10.0,603.0,Amit,6030.0,8.0,2023.0,Aug
+198,2023-08-26,East,Monitor,Electronics,4.0,791.0,Sara,3164.0,8.0,2023.0,Aug
+464,2023-08-27,South,Table,Furniture,7.0,807.0,Priya,5649.0,8.0,2023.0,Aug
+10,2023-08-28,West,Desk Chair,Furniture,9.0,572.0,Priya,5148.0,8.0,2023.0,Aug
+195,2023-08-28,North,Monitor,Electronics,8.0,319.0,Priya,2552.0,8.0,2023.0,Aug
+438,2023-08-31,North,Phone,Electronics,4.0,652.0,Maria,2608.0,8.0,2023.0,Aug
+268,2023-09-02,East,Keyboard,Accessories,3.0,603.0,Amit,1809.0,9.0,2023.0,Sep
+287,2023-09-03,North,Phone,Electronics,5.0,528.0,John,2640.0,9.0,2023.0,Sep
+232,2023-09-03,South,Table,Furniture,2.0,714.0,Priya,1428.0,9.0,2023.0,Sep
+496,2023-09-05,South,Keyboard,Accessories,2.0,219.0,Maria,438.0,9.0,2023.0,Sep
+270,2023-09-05,North,Table,Furniture,5.0,583.0,Priya,2915.0,9.0,2023.0,Sep
+286,2023-09-10,West,Desk Chair,Furniture,3.0,447.0,Priya,1341.0,9.0,2023.0,Sep
+285,2023-09-14,North,Table,Furniture,5.0,185.0,Priya,925.0,9.0,2023.0,Sep
+202,2023-09-15,North,Table,Furniture,1.0,245.0,John,245.0,9.0,2023.0,Sep
+17,2023-09-17,East,Phone,Electronics,3.0,920.0,Sara,2760.0,9.0,2023.0,Sep
+460,2023-09-17,North,Laptop,Electronics,8.0,297.0,Priya,2376.0,9.0,2023.0,Sep
+449,2023-09-19,East,Desk Chair,Furniture,7.0,798.0,David,5586.0,9.0,2023.0,Sep
+79,2023-09-19,North,Headphones,Accessories,4.0,1012.0,Maria,4048.0,9.0,2023.0,Sep
+346,2023-09-19,East,Laptop,Electronics,6.0,1126.0,Amit,6756.0,9.0,2023.0,Sep
+331,2023-09-20,South,Table,Furniture,7.0,520.0,Sara,3640.0,9.0,2023.0,Sep
+245,2023-09-22,North,Table,Furniture,9.0,750.0,David,6750.0,9.0,2023.0,Sep
+282,2023-09-23,West,Phone,Electronics,1.0,370.0,Sara,370.0,9.0,2023.0,Sep
+111,2023-09-25,West,Monitor,Electronics,9.0,812.0,Priya,7308.0,9.0,2023.0,Sep
+424,2023-09-25,North,Laptop,Electronics,3.0,588.0,David,1764.0,9.0,2023.0,Sep
+244,2023-09-26,South,Keyboard,Accessories,9.0,1128.0,Amit,10152.0,9.0,2023.0,Sep
+289,2023-09-26,West,Monitor,Electronics,5.0,601.0,Amit,3005.0,9.0,2023.0,Sep
+97,2023-09-28,West,Laptop,Electronics,5.0,727.0,Priya,3635.0,9.0,2023.0,Sep
+399,2023-09-28,West,Table,Furniture,10.0,1019.0,Priya,10190.0,9.0,2023.0,Sep
+145,2023-09-30,North,Headphones,Accessories,9.0,236.0,John,2124.0,9.0,2023.0,Sep
+193,2023-10-06,East,Desk Chair,Furniture,5.0,797.0,Sara,3985.0,10.0,2023.0,Oct
+126,2023-10-07,South,Desk Chair,Furniture,9.0,1109.0,Maria,9981.0,10.0,2023.0,Oct
+373,2023-10-09,West,Headphones,Accessories,1.0,177.0,Amit,177.0,10.0,2023.0,Oct
+412,2023-10-10,West,Table,Furniture,10.0,164.0,Maria,1640.0,10.0,2023.0,Oct
+35,2023-10-11,South,Keyboard,Accessories,3.0,666.0,Sara,1998.0,10.0,2023.0,Oct
+46,2023-10-13,West,Phone,Electronics,7.0,679.0,Maria,4753.0,10.0,2023.0,Oct
+73,2023-10-14,South,Table,Furniture,4.0,675.0,Amit,2700.0,10.0,2023.0,Oct
+240,2023-10-14,West,Table,Furniture,10.0,613.0,Maria,6130.0,10.0,2023.0,Oct
+52,2023-10-14,North,Table,Furniture,10.0,374.0,John,3740.0,10.0,2023.0,Oct
+154,2023-10-15,North,Laptop,Electronics,1.0,716.0,John,716.0,10.0,2023.0,Oct
+241,2023-10-15,East,Keyboard,Accessories,2.0,708.0,David,1416.0,10.0,2023.0,Oct
+229,2023-10-16,West,Phone,Electronics,9.0,915.0,David,8235.0,10.0,2023.0,Oct
+430,2023-10-17,North,Headphones,Accessories,3.0,1200.0,David,3600.0,10.0,2023.0,Oct
+50,2023-10-18,South,Desk Chair,Furniture,4.0,638.0,Maria,2552.0,10.0,2023.0,Oct
+500,2023-10-19,East,Phone,Electronics,2.0,603.0,Maria,1206.0,10.0,2023.0,Oct
+224,2023-10-19,North,Phone,Electronics,10.0,275.0,Amit,2750.0,10.0,2023.0,Oct
+453,2023-10-20,West,Headphones,Accessories,2.0,770.0,John,1540.0,10.0,2023.0,Oct
+406,2023-10-21,North,Laptop,Electronics,10.0,603.0,John,6030.0,10.0,2023.0,Oct
+94,2023-10-23,East,Laptop,Electronics,10.0,96.0,Maria,960.0,10.0,2023.0,Oct
+62,2023-10-27,West,Keyboard,Accessories,1.0,603.0,Priya,603.0,10.0,2023.0,Oct
+385,2023-10-28,East,Desk Chair,Furniture,5.0,880.0,David,4400.0,10.0,2023.0,Oct
+402,2023-11-01,West,Keyboard,Accessories,7.0,987.0,Amit,6909.0,11.0,2023.0,Nov
+284,2023-11-01,West,Table,Furniture,1.0,603.0,Priya,603.0,11.0,2023.0,Nov
+158,2023-11-02,East,Monitor,Electronics,9.0,603.0,Sara,5427.0,11.0,2023.0,Nov
+212,2023-11-03,East,Desk Chair,Furniture,2.0,344.0,Priya,688.0,11.0,2023.0,Nov
+197,2023-11-06,South,Keyboard,Accessories,4.0,392.0,Maria,1568.0,11.0,2023.0,Nov
+89,2023-11-07,West,Headphones,Accessories,5.0,243.0,John,1215.0,11.0,2023.0,Nov
+187,2023-11-09,West,Desk Chair,Furniture,9.0,503.0,Sara,4527.0,11.0,2023.0,Nov
+451,2023-11-09,East,Phone,Electronics,7.0,854.0,Priya,5978.0,11.0,2023.0,Nov
+124,2023-11-10,North,Headphones,Accessories,8.0,1021.0,Amit,8168.0,11.0,2023.0,Nov
+92,2023-11-13,North,Headphones,Accessories,2.0,1099.0,Priya,2198.0,11.0,2023.0,Nov
+440,2023-11-14,South,Laptop,Electronics,8.0,603.0,Priya,4824.0,11.0,2023.0,Nov
+165,2023-11-14,North,Headphones,Accessories,6.0,854.0,Amit,5124.0,11.0,2023.0,Nov
+71,2023-11-14,West,Laptop,Electronics,7.0,471.0,Priya,3297.0,11.0,2023.0,Nov
+223,2023-11-16,East,Phone,Electronics,2.0,206.0,John,412.0,11.0,2023.0,Nov
+319,2023-11-18,South,Headphones,Accessories,1.0,603.0,Maria,603.0,11.0,2023.0,Nov
+279,2023-11-20,East,Desk Chair,Furniture,5.0,603.0,Maria,3015.0,11.0,2023.0,Nov
+16,2023-11-21,West,Keyboard,Accessories,2.0,371.0,David,742.0,11.0,2023.0,Nov
+358,2023-11-21,North,Phone,Electronics,10.0,283.0,Sara,2830.0,11.0,2023.0,Nov
+454,2023-11-21,East,Monitor,Electronics,8.0,712.0,Amit,5696.0,11.0,2023.0,Nov
+274,2023-11-22,East,Monitor,Electronics,5.0,1176.0,David,5880.0,11.0,2023.0,Nov
+391,2023-11-24,West,Table,Furniture,9.0,40.0,Sara,360.0,11.0,2023.0,Nov
+302,2023-11-25,West,Desk Chair,Furniture,9.0,603.0,Priya,5427.0,11.0,2023.0,Nov
+106,2023-11-25,North,Phone,Electronics,8.0,344.0,Sara,2752.0,11.0,2023.0,Nov
+447,2023-11-25,West,Laptop,Electronics,4.0,658.0,Amit,2632.0,11.0,2023.0,Nov
+321,2023-11-26,East,Desk Chair,Furniture,2.0,346.0,David,692.0,11.0,2023.0,Nov
+316,2023-11-26,North,Headphones,Accessories,3.0,809.0,Priya,2427.0,11.0,2023.0,Nov
+314,2023-11-27,West,Table,Furniture,3.0,400.0,Amit,1200.0,11.0,2023.0,Nov
+252,2023-11-27,North,Laptop,Electronics,6.0,493.0,Sara,2958.0,11.0,2023.0,Nov
+237,2023-11-27,East,Headphones,Accessories,10.0,1186.0,John,11860.0,11.0,2023.0,Nov
+342,2023-11-28,West,Table,Furniture,4.0,1171.0,Maria,4684.0,11.0,2023.0,Nov
+215,2023-12-01,South,Keyboard,Accessories,8.0,764.0,Sara,6112.0,12.0,2023.0,Dec
+301,2023-12-02,East,Headphones,Accessories,3.0,714.0,John,2142.0,12.0,2023.0,Dec
+293,2023-12-03,East,Table,Furniture,6.0,229.0,David,1374.0,12.0,2023.0,Dec
+186,2023-12-04,North,Laptop,Electronics,9.0,603.0,Sara,5427.0,12.0,2023.0,Dec
+467,2023-12-04,South,Monitor,Electronics,3.0,768.0,Maria,2304.0,12.0,2023.0,Dec
+354,2023-12-04,South,Monitor,Electronics,3.0,703.0,Maria,2109.0,12.0,2023.0,Dec
+370,2023-12-07,North,Table,Furniture,6.0,906.0,Priya,5436.0,12.0,2023.0,Dec
+303,2023-12-07,North,Desk Chair,Furniture,7.0,502.0,John,3514.0,12.0,2023.0,Dec
+417,2023-12-07,South,Headphones,Accessories,6.0,439.0,Priya,2634.0,12.0,2023.0,Dec
+356,2023-12-07,South,Keyboard,Accessories,5.0,447.0,Priya,2235.0,12.0,2023.0,Dec
+127,2023-12-11,West,Laptop,Electronics,4.0,421.0,Sara,1684.0,12.0,2023.0,Dec
+207,2023-12-12,South,Phone,Electronics,1.0,145.0,Amit,145.0,12.0,2023.0,Dec
+304,2023-12-15,North,Keyboard,Accessories,8.0,204.0,John,1632.0,12.0,2023.0,Dec
+12,2023-12-15,West,Monitor,Electronics,7.0,108.0,Amit,756.0,12.0,2023.0,Dec
+175,2023-12-16,South,Laptop,Electronics,9.0,452.0,Priya,4068.0,12.0,2023.0,Dec
+351,2023-12-16,North,Desk Chair,Furniture,3.0,1007.0,Amit,3021.0,12.0,2023.0,Dec
+305,2023-12-17,North,Keyboard,Accessories,3.0,132.0,John,396.0,12.0,2023.0,Dec
+275,2023-12-17,North,Phone,Electronics,4.0,619.0,Amit,2476.0,12.0,2023.0,Dec
+421,2023-12-19,West,Headphones,Accessories,2.0,497.0,Amit,994.0,12.0,2023.0,Dec
+203,2023-12-20,West,Keyboard,Accessories,5.0,492.0,John,2460.0,12.0,2023.0,Dec
+345,2023-12-23,West,Laptop,Electronics,10.0,473.0,Priya,4730.0,12.0,2023.0,Dec
+384,2023-12-23,South,Keyboard,Accessories,1.0,878.0,Maria,878.0,12.0,2023.0,Dec
+67,2023-12-23,North,Headphones,Accessories,3.0,786.0,Amit,2358.0,12.0,2023.0,Dec
+488,2023-12-25,South,Headphones,Accessories,1.0,1197.0,Amit,1197.0,12.0,2023.0,Dec
+381,2023-12-26,South,Laptop,Electronics,4.0,1154.0,Sara,4616.0,12.0,2023.0,Dec
+425,2023-12-28,West,Headphones,Accessories,3.0,357.0,Priya,1071.0,12.0,2023.0,Dec
+317,2023-12-28,East,Headphones,Accessories,10.0,293.0,Priya,2930.0,12.0,2023.0,Dec
+298,2023-12-30,North,Table,Furniture,7.0,427.0,John,2989.0,12.0,2023.0,Dec
+83,2023-12-30,East,Monitor,Electronics,4.0,589.0,Sara,2356.0,12.0,2023.0,Dec
+388,2023-12-30,West,Phone,Electronics,1.0,1132.0,Priya,1132.0,12.0,2023.0,Dec
+396,2023-12-30,West,Phone,Electronics,5.0,763.0,Sara,3815.0,12.0,2023.0,Dec
+27,2023-12-30,West,Laptop,Electronics,1.0,253.0,Amit,253.0,12.0,2023.0,Dec
