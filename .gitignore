@@ -30,3 +30,9 @@ env/
 *.pt
 *.pth
 *.onnx
+an_env/
+_pycache_/
+*.pyc/
+.vscode/
+site_packages/
+
