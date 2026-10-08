@@ -1,0 +1,27 @@
+symbol,is_pro,text
+HDFCBANK,True,Company is expected to give good quarter
+HDFCBANK,True,Company has delivered good profit growth of 23.4% CAGR over last 5 years
+HDFCBANK,True,Company has been maintaining a healthy dividend payout of 22.9%
+HDFCBANK,True,Company's median sales growth is 16.4% of last 10 years
+SBILIFE,True,Company is almost debt free.
+SBILIFE,True,Company is expected to give good quarter
+INFY,True,Company has a good return on equity (ROE) track record: 3 Years ROE 30.9%
+INFY,True,Company has been maintaining a healthy dividend payout of 63.3%
+TCS,True,Company is almost debt free.
+TCS,True,Company has a good return on equity (ROE) track record: 3 Years ROE 47.4%
+TCS,True,Company has been maintaining a healthy dividend payout of 66.2%
+HDFCBANK,False,Stock is trading at 2.76 times its book value
+HDFCBANK,False,Company has low interest coverage ratio.
+HDFCBANK,False,"Contingent liabilities of Rs.24,09,821 Cr."
+HDFCBANK,False,"Earnings include an other income of Rs.1,55,870 Cr."
+SBILIFE,False,Stock is trading at 9.11 times its book value
+SBILIFE,False,Tax rate seems low
+SBILIFE,False,Company has a low return on equity of 12.9% over last 3 years.
+SBILIFE,False,"Earnings include an other income of Rs.1,657 Cr."
+SBILIFE,False,Dividend payout has been low at 14.0% of profits over last 3 years
+INFY,False,Stock is trading at 9.03 times its book value
+INFY,False,Promoter holding is low: 14.4%
+WIPRO,False,The company has delivered a poor sales growth of 8.75% over past five years.
+WIPRO,False,Dividend payout has been low at 12.2% of profits over last 3 years
+TCS,False,Stock is trading at 15.2 times its book value
+TCS,False,The company has delivered a poor sales growth of 10.5% over past five years.

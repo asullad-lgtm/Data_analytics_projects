@@ -1,0 +1,93 @@
+sector_id,sector_code,sector,description_name
+0,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+1,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+2,ENE,ENERGY,"Companies inolved in refining,Exploration,distrubution services"
+3,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+4,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+5,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+6,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+7,HEA,HEALTHCARE,"Companies involved in pharmaceticals,medical equipment healthcare services"
+8,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+9,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+10,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+11,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+12,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+13,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+14,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+15,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+16,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+17,COM,COMMUNICATION-SERVICES,"Companies providing telecommunication,internet services"
+18,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+19,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+20,ENE,ENERGY,"Companies inolved in refining,Exploration,distrubution services"
+21,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+22,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+23,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+24,HEA,HEALTHCARE,"Companies involved in pharmaceticals,medical equipment healthcare services"
+25,ENE,ENERGY,"Companies inolved in refining,Exploration,distrubution services"
+26,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+27,HEA,HEALTHCARE,"Companies involved in pharmaceticals,medical equipment healthcare services"
+28,REA,REAL-ESTATE,"Companies involved in construction,sales,lease management,devolopement of properties"
+29,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+30,HEA,HEALTHCARE,"Companies involved in pharmaceticals,medical equipment healthcare services"
+31,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+32,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+33,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+34,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+35,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+36,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+37,TEC,TECHNOLOGY,Companies developing IT and software services
+38,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+39,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+40,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+41,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+42,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+43,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+44,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+45,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+46,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+47,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+48,TEC,TECHNOLOGY,Companies developing IT and software services
+49,ENE,ENERGY,"Companies inolved in refining,Exploration,distrubution services"
+50,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+51,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+52,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+53,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+54,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+55,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+56,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+57,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+58,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+59,REA,REAL-ESTATE,"Companies involved in construction,sales,lease management,devolopement of properties"
+60,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+61,TEC,TECHNOLOGY,Companies developing IT and software services
+62,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+63,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+64,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+65,COM,COMMUNICATION-SERVICES,"Companies providing telecommunication,internet services"
+66,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+67,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+68,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+69,ENE,ENERGY,"Companies inolved in refining,Exploration,distrubution services"
+70,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+71,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+72,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+73,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+74,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+75,ENE,ENERGY,"Companies inolved in refining,Exploration,distrubution services"
+76,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+77,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+78,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+79,FIN,FINANCIAL-SERVICES,"Companies providing banking,asset management,investing,lending,insurance"
+80,IND,INDUSTRIALS,"Companies involving manfacturing engineering,machinary,construction,transportation services"
+81,HEA,HEALTHCARE,"Companies involved in pharmaceticals,medical equipment healthcare services"
+82,CON,CONSUMER-DEFENSIVE,Companies involved in manufacturing of Defense products
+83,AUT,AUTOMOBILE,"Companies inolved in manufacturing,sales of automobile parts"
+84,UTI,UTILITIES,"Companies providing essetial services like gas,electriity,water others"
+85,BAS,BASIC-MATERIALS,"Companies involved manufacturing of raw materials,cements,metal parts"
+86,TEC,TECHNOLOGY,Companies developing IT and software services
+87,TEC,TECHNOLOGY,Companies developing IT and software services
+88,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+89,HEA,HEALTHCARE,"Companies involved in pharmaceticals,medical equipment healthcare services"
+90,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
+91,CON,CONSUMER-CYCLICAL,Comnapnies selling non-essential goods and services
